@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a web app designed to empower startups by providing a platform to create, refine, and showcase their pitches. It offers tools for structuring business ideas, crafting compelling presentations, and connecting with potential investors. With its user-friendly interface and innovative features, **PitchNest** helps startups turn ideas into opportunities [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
